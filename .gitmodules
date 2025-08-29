@@ -1,0 +1,15 @@
+[submodule "LDAI-Content-MS"]
+	path = LDAI-Content-MS
+	url = https://github.com/SwaggyXO/LDAI-Content-MS.git
+[submodule "LDAI-Frontend"]
+	path = LDAI-Frontend
+	url = https://github.com/SwaggyXO/LDAI-Frontend.git
+[submodule "LDAI-Core-MS"]
+	path = LDAI-Core-MS
+	url = https://github.com/SwaggyXO/LDAI-Core-MS.git
+[submodule "LDAI-Health-MS"]
+	path = LDAI-Health-MS
+	url = https://github.com/SwaggyXO/LDAI-Health-MS.git
+[submodule "LDAI-Model-MS"]
+	path = LDAI-Model-MS
+	url = https://github.com/SwaggyXO/LDAI-Model-MS.git
